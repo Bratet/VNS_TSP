@@ -1,0 +1,32 @@
+{
+    "1" : {
+        "optimal_solution" : 699
+    },
+    "2" : {
+        "optimal_solution" : 937
+    },
+    "3" : {
+        "optimal_solution" : 2085
+    },
+    "4" : {
+        "optimal_solution" : 33523
+    },
+    "5" : {
+        "optimal_solution" : 19
+    },
+    "6" : {
+        "optimal_solution" : 291
+    },
+    "7" : {
+        "optimal_solution" : 2579
+    },
+    "8" : {
+        "optimal_solution" : 21294
+    },
+    "9" : {
+        "optimal_solution" : 58537
+    },
+    "10" : {
+        "optimal_solution" : 80369
+    }
+}
